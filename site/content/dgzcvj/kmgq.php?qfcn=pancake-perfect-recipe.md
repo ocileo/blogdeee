@@ -1,5 +1,5 @@
 ---
-title: Simply Perfect Pancakes
+title: 'Simply Perfect Pancakes'
 date: 2022-01-04T15:04:10.000Z
 description: >-
   Malt, rather than sugar, is what sweetens most food-service (i.e., restaurant/hotel) pancake mixes. 
